@@ -1,0 +1,198 @@
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.exe
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.deps.json
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.runtimeconfig.json
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.runtimeconfig.dev.json
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\ref\CalculatorWebApi.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.pdb
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.Views.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.Views.pdb
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.csproj.AssemblyReference.cache
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.AssemblyInfoInputs.cache
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.AssemblyInfo.cs
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.csproj.CoreCompileInputs.cache
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.RazorAssemblyInfo.cache
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.RazorAssemblyInfo.cs
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\staticwebassets\CalculatorWebApi.StaticWebAssets.Manifest.cache
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\staticwebassets\CalculatorWebApi.StaticWebAssets.xml
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\scopedcss\bundle\CalculatorWebApi.styles.css
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.TagHelpers.input.cache
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.TagHelpers.output.cache
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.RazorCoreGenerate.cache
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.RazorTargetAssemblyInfo.cs
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.Views.pdb
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.csproj.CopyComplete
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\ref\CalculatorWebApi.dll
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.pdb
+C:\Users\serveradmin\Desktop\Test\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.genruntimeconfig.cache
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\appsettings.json
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.exe
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.deps.json
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.runtimeconfig.json
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.runtimeconfig.dev.json
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\ref\CalculatorWebApi.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.pdb
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.Views.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.Views.pdb
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.csproj.AssemblyReference.cache
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.AssemblyInfoInputs.cache
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.AssemblyInfo.cs
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.csproj.CoreCompileInputs.cache
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.RazorAssemblyInfo.cache
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.RazorAssemblyInfo.cs
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\staticwebassets\CalculatorWebApi.StaticWebAssets.Manifest.cache
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\staticwebassets\CalculatorWebApi.StaticWebAssets.xml
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\scopedcss\bundle\CalculatorWebApi.styles.css
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.TagHelpers.input.cache
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.TagHelpers.output.cache
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.RazorCoreGenerate.cache
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.RazorTargetAssemblyInfo.cache
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.RazorTargetAssemblyInfo.cs
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.Views.pdb
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.csproj.CopyComplete
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\ref\CalculatorWebApi.dll
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.pdb
+D:\Shay\Calculator Project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.genruntimeconfig.cache
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\appsettings.json
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.exe
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.deps.json
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.runtimeconfig.json
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.runtimeconfig.dev.json
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\ref\CalculatorWebApi.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.pdb
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.Views.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\CalculatorWebApi.Views.pdb
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.csproj.AssemblyReference.cache
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.AssemblyInfoInputs.cache
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.AssemblyInfo.cs
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.csproj.CoreCompileInputs.cache
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.RazorAssemblyInfo.cache
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.RazorAssemblyInfo.cs
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\staticwebassets\CalculatorWebApi.StaticWebAssets.Manifest.cache
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\staticwebassets\CalculatorWebApi.StaticWebAssets.xml
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\scopedcss\bundle\CalculatorWebApi.styles.css
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.TagHelpers.input.cache
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.TagHelpers.output.cache
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.RazorCoreGenerate.cache
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.RazorTargetAssemblyInfo.cache
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.RazorTargetAssemblyInfo.cs
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.Views.pdb
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.csproj.CopyComplete
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\ref\CalculatorWebApi.dll
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.pdb
+C:\Projects\Calculator project\CalculatorWebApi\CalculatorWebApi\obj\Debug\net5.0\CalculatorWebApi.genruntimeconfig.cache
